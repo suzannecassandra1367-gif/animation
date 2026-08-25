@@ -304,8 +304,8 @@ ZOOM.XML
 ```
 
 ## OUTPUT
-
-
+<img width="672" height="875" alt="image" src="https://github.com/user-attachments/assets/7666a6e0-734d-4243-841c-41e6fce5b4b3" />
+<img width="675" height="845" alt="image" src="https://github.com/user-attachments/assets/0a869210-282e-43d8-949f-1f1f751495bb" />
 
 
 ## RESULT
